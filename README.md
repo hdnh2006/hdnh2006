@@ -5,7 +5,7 @@ AI and math enthusiast passionate about computer vision and machine learning. I 
 
 ## Main Open Source Contributions 🚀
 
-- **LangChain** 🔗
+- **LangChain** 🦜
   - [Standardize output_parser.py across all agent types for custom FORMAT_INSTRUCTIONS](https://github.com/langchain-ai/langchain/pull/17168)
   - [output_parser.py in conversation_chat is customizable](https://github.com/langchain-ai/langchain/pull/16945)
 
