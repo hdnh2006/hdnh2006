@@ -32,7 +32,7 @@ AI and math enthusiast passionate about computer vision and machine learning. I 
 
 Check out my YouTube channel where I share interesting content:
 
-[Henry AI Lab]([https://www.youtube.com/@HenryAILab](https://www.youtube.com/@hdnh2006)) 🎥
+[Henry AI Lab](https://www.youtube.com/@hdnh2006) 🎥
 
 ## Blog Posts 📝
 
