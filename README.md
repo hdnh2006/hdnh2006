@@ -8,6 +8,9 @@ AI and math enthusiast passionate about computer vision and machine learning. I 
 - **LangChain** 🦜
   - [Standardize output_parser.py across all agent types for custom FORMAT_INSTRUCTIONS](https://github.com/langchain-ai/langchain/pull/17168)
   - [output_parser.py in conversation_chat is customizable](https://github.com/langchain-ai/langchain/pull/16945)
+ 
+- **LangChain** 🤖
+  - [OpenAI-compatible `/api/embeddings` endpoint with provider-agnostic OpenWebUI architecture](https://github.com/open-webui/open-webui/pull/14667)
 
 - **Ultralytics** 👁️
   - [Fix det.summary() bug for ultralytics>=8.2.10](https://github.com/ultralytics/ultralytics/pull/13024)
